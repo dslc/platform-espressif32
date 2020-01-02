@@ -17,7 +17,7 @@
     "https://dl.bintray.com/platformio/dl-packages/manifest.json",
     "http://dl.platformio.org/packages/manifest.json",
     {
-        "framework-espressif32-dslc": [
+        "framework-arduinoespressif32-dslc": [
             {
             "url": "https://storage.googleapis.com/platformio-packages/framework-arduinoespressif32-dslc-0.1.1.tar.gz",
             "sha1": "89c124a919e56ff3abe7f5dc3537314a4d40cdef",
