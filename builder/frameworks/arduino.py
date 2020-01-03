@@ -33,4 +33,4 @@ SConscript("_embed_files.py", exports="env")
 if "espidf" not in env.subst("$PIOFRAMEWORK"):
     SConscript(
         join(DefaultEnvironment().PioPlatform().get_package_dir(
-            "framework-arduinoespressif32"), "tools", "platformio-build.py"))
+            "framework-arduinoespressif32-dslc"), "tools", "platformio-build.py"))
