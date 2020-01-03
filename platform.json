@@ -58,7 +58,7 @@
     "framework-arduinoespressif32-dslc": {
       "type": "framework",
       "optional": true,
-      "version": "~2.10004.191002"
+      "version": "~0.1.1"
     },
     "framework-espidf": {
       "type": "framework",
