@@ -19,10 +19,10 @@
     {
         "framework-arduinoespressif32-dslc": [
             {
-            "url": "https://storage.googleapis.com/platformio-packages/framework-arduinoespressif32-dslc-0.1.1.tar.gz",
+            "url": "https://storage.googleapis.com/platformio-packages/framework-arduinoespressif32-dslc-0.1.2.tar.gz",
             "sha1": "89c124a919e56ff3abe7f5dc3537314a4d40cdef",
             "system": "*",
-            "version": "0.1.1"
+            "version": "0.1.2"
             }
         ]
     }
@@ -58,7 +58,7 @@
     "framework-arduinoespressif32-dslc": {
       "type": "framework",
       "optional": true,
-      "version": "~0.1.1"
+      "version": "~0.1.2"
     },
     "framework-espidf": {
       "type": "framework",
