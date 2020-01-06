@@ -20,7 +20,7 @@
         "framework-arduinoespressif32-dslc": [
             {
             "url": "https://storage.googleapis.com/platformio-packages/framework-arduinoespressif32-dslc-0.1.2.tar.gz",
-            "sha1": "89c124a919e56ff3abe7f5dc3537314a4d40cdef",
+            "sha1": "2106663793f1e4f789ce85ce604e5facdced27b5",
             "system": "*",
             "version": "0.1.2"
             }
